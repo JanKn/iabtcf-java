@@ -30,7 +30,7 @@ import static com.iabtcf.utils.FieldDefs.V1_VENDOR_LIST_VERSION;
 import static com.iabtcf.utils.FieldDefs.V1_VERSION;
 
 import java.time.Instant;
-import java.util.Base64;
+import com.iabtcf.utils.Base64;
 import java.util.Objects;
 
 import com.iabtcf.exceptions.ByteParseException;

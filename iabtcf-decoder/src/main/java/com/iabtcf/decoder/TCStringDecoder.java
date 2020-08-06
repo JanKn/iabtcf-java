@@ -20,7 +20,7 @@ package com.iabtcf.decoder;
  * #L%
  */
 
-import java.util.Base64;
+import com.iabtcf.utils.Base64;
 import java.util.EnumSet;
 
 import com.iabtcf.exceptions.ByteParseException;

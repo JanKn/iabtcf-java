@@ -25,7 +25,7 @@ import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 import java.time.Instant;
-import java.util.Base64;
+import com.iabtcf.utils.Base64;
 import java.util.Random;
 import java.util.stream.Collectors;
 

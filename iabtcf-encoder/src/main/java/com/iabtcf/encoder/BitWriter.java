@@ -24,7 +24,7 @@ import java.nio.ByteBuffer;
 import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 import java.time.Instant;
-import java.util.Base64;
+import com.iabtcf.utils.Base64;
 import java.util.BitSet;
 import java.util.PrimitiveIterator.OfLong;
 

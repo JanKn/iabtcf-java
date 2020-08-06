@@ -29,7 +29,7 @@ import java.nio.ByteBuffer;
 import java.time.Instant;
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
-import java.util.Base64;
+import com.iabtcf.utils.Base64;
 import java.util.BitSet;
 import java.util.Random;
 import java.util.stream.Collectors;
