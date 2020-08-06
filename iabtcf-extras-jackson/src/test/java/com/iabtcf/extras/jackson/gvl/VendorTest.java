@@ -112,6 +112,6 @@ public class VendorTest {
 
     @Test
     public void testIsDeleted() {
-        Assert.assertFalse(vendorEight.isDeleted());
+        Assert.assertTrue(vendorEight.isDeleted());
     }
 }
